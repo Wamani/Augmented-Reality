@@ -1,0 +1,9 @@
+/opt/clion-2018.1.6/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/yanxinwang/Project/opencv_opengl_demo
+-- READ CONFIG FROM FILE:/home/yanxinwang/Project/opencv_opengl_demo/build.properties
+-- READ CONFIG FROM FILE:/home/yanxinwang/Project/opencv_opengl_demo/build.properties.local
+-- BUILD TYPE:Release
+dep file dep_linux.tmp
+config types: 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yanxinwang/Project/opencv_opengl_demo/cmake-build-debug

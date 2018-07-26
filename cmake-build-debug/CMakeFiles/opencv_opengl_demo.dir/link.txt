@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11 -g  -shared -Wl,-soname,libopencv_opengl_demod.so -o lib/libopencv_opengl_demod.so CMakeFiles/opencv_opengl_demo.dir/src/OpenGLModule.cpp.o  -L/home/yanxinwang/Project/opencv_opengl_demo/cmake-build-debug/lib 

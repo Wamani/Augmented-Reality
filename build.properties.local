@@ -1,0 +1,11 @@
+# local config
+# same as config in `build.properties` but with high priority
+
+# setting ndk-build for android
+# ANDROID_NDK /opt/ndk/android-ndk-r10e
+
+# setting compiler for arm linux
+# cmake_c_compiler /opt/arm-linux/bin/arm-linux-gnueabihf-gcc
+# cmake_cxx_compiler  /opt/arm-linux/bin/arm-linux-gnueabihf-gcc
+# cmake_find_root_path /opt/arm-linux
+
